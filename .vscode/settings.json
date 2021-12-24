@@ -1,10 +1,7 @@
 {
-    // "python.linting.pylintEnabled": true,
-    // "python.linting.enabled": true
     "editor.suggest.insertMode": "replace",
     "git.ignoreLimitWarning": true,
     "python.linting.pylintEnabled": true,
-
     "python.linting.pylintArgs": [
         "--enable=F,E,W",
         "--load-plugins=pylint_django",
