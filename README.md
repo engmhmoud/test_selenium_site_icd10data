@@ -15,18 +15,18 @@ Steps to reproduce:
        a. Check the presence of the website logo and its name on the logo on the page.
             
 
-     b. Check that there is a Codes button in the menu bar of the page.
+       b. Check that there is a Codes button in the menu bar of the page.
      
-     c. Check that when you click on the Codes button, a drop-down menu opens.
+       c. Check that when you click on the Codes button, a drop-down menu opens.
             
 
-    d. Check that the disease search field by code is located at the top of the page.
+       d. Check that the disease search field by code is located at the top of the page.
            
 
-    e. Enter the Coronavirus code in the search field and click the search button.
+       e. Enter the Coronavirus code in the search field and click the search button.
           
 
-   f. Check that the search result we need is on the page that opens.
+       f. Check that the search result we need is on the page that opens.
          
 
           
