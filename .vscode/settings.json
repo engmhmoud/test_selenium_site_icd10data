@@ -4,8 +4,7 @@
     "editor.suggest.insertMode": "replace",
     "git.ignoreLimitWarning": true,
     "python.linting.pylintEnabled": true,
-    // "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\djangoSite2\\python.exe",
-    // "python.linting.pylintEnabled": true,
+
     "python.linting.pylintArgs": [
         "--enable=F,E,W",
         "--load-plugins=pylint_django",
@@ -59,14 +58,3 @@
     "jupyter.debugJustMyCode": true,
     "debug.allowBreakpointsEverywhere": true,
 }
-// {
-//     "git.ignoreLimitWarning": true,
-//     "python.linting.enabled": true,
-//     "python.linting.pylamaEnabled": false,
-//     "python.linting.pylintEnabled": true,
-//     "python.linting.pylintArgs": [
-//         "--disable=C0111",
-//         "--load-plugins",
-//         "pylint_django"
-//     ],
-// }
