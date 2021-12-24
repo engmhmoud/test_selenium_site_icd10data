@@ -39,4 +39,5 @@ to run you should have python ,pytest , selenium ,and pipenv
 # to get allure report ensure you have allure command , intall allure_pytest and run the following 
 
 pytest --alluredir=./report
+then
 allure serve ./report
