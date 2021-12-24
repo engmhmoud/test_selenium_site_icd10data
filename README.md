@@ -31,10 +31,10 @@ Steps to reproduce:
 
           
 
-# solution on code  at test_all.py file named and ordered to run you should have python ,pytest , selenium ,and pipenv
+# solution on code  at test_all.py file named and ordered
+to run you should have python ,pytest , selenium ,and pipenv
 # to run the test 
 #   pytest . 
-# to get the  allure 
-# enure you installed allure command and allure-pytest  package then run
-# pytest --alluredir=./report
-# allure serve /report
+
+# to get allure report run the following
+
