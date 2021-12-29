@@ -19,7 +19,7 @@ def driver():
 # 1
 # driver.get(site_base_url)
 # 1
-def test_connection():
+def test_connection(driver):
     pass
 
 
